@@ -1,0 +1,20 @@
+C:\Users\don\Desktop\bg.o sa vb.net\Microphone\Microphone\CS\bin\Debug\Microphone.exe
+C:\Users\don\Desktop\bg.o sa vb.net\Microphone\Microphone\CS\bin\Debug\Microphone.pdb
+C:\Users\don\Desktop\bg.o sa vb.net\Microphone\Microphone\CS\bin\Debug\Microphone.xml
+C:\Users\don\Desktop\bg.o sa vb.net\Microphone\Microphone\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\don\Desktop\bg.o sa vb.net\Microphone\Microphone\CS\obj\Debug\Microphone.Form1.resources
+C:\Users\don\Desktop\bg.o sa vb.net\Microphone\Microphone\CS\obj\Debug\Microphone.Properties.Resources.resources
+C:\Users\don\Desktop\bg.o sa vb.net\Microphone\Microphone\CS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\don\Desktop\bg.o sa vb.net\Microphone\Microphone\CS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\don\Desktop\bg.o sa vb.net\Microphone\Microphone\CS\obj\Debug\Microphone.exe
+C:\Users\don\Desktop\bg.o sa vb.net\Microphone\Microphone\CS\obj\Debug\Microphone.pdb
+C:\Users\elect\Desktop\Mic\obj\Debug\Microphone.pdb
+C:\Users\elect\Desktop\Mic\bin\Debug\Microphone.exe
+C:\Users\elect\Desktop\Mic\bin\Debug\Microphone.pdb
+C:\Users\elect\Desktop\Mic\bin\Debug\Microphone.xml
+C:\Users\elect\Desktop\Mic\obj\Debug\Microphone.Form1.resources
+C:\Users\elect\Desktop\Mic\obj\Debug\Microphone.Properties.Resources.resources
+C:\Users\elect\Desktop\Mic\obj\Debug\Microphone.csproj.GenerateResource.Cache
+C:\Users\elect\Desktop\Mic\obj\Debug\Microphone.exe
+C:\Users\elect\Desktop\music_project-master\Musical_Project-master\Mic\obj\Debug\Microphone.exe
+C:\Users\elect\Desktop\music_project-master\Musical_Project-master\Mic\obj\Debug\Microphone.pdb
